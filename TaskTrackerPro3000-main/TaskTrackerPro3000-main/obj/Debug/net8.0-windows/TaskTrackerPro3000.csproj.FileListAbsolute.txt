@@ -1,0 +1,17 @@
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\bin\Debug\net8.0-windows\TaskTrackerPro3000.exe
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\bin\Debug\net8.0-windows\TaskTrackerPro3000.deps.json
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\bin\Debug\net8.0-windows\TaskTrackerPro3000.runtimeconfig.json
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\bin\Debug\net8.0-windows\TaskTrackerPro3000.dll
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\TaskTrackerPro3000.csproj.AssemblyReference.cache
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\TaskTrackerPro3000.TTP.resources
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\TaskTrackerPro3000.csproj.GenerateResource.cache
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\TaskTrackerPro3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\TaskTrackerPro3000.AssemblyInfoInputs.cache
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\TaskTrackerPro3000.AssemblyInfo.cs
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\TaskTrackerPro3000.csproj.CoreCompileInputs.cache
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\TaskTrackerPro3000.csproj.CopyComplete
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\TaskTrackerPro3000.dll
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\refint\TaskTrackerPro3000.dll
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\TaskTrackerPro3000.genruntimeconfig.cache
+C:\Users\invic\Desktop\TaskTrackerPro3000-main\TaskTrackerPro3000-main\obj\Debug\net8.0-windows\ref\TaskTrackerPro3000.dll

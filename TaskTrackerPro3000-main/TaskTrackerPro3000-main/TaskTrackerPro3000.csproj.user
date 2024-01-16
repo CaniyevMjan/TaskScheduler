@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Scripts\CheckedListBoxImproved.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Scripts\GroupItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Scripts\GrpPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Scripts\ImprovedListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Scripts\TaskInputBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Scripts\TaskListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Scripts\TaskPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Scripts\Workspace.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="TTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

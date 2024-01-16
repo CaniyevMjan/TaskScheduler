@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TdLNFxzm9B157ZzZhQfqR17FtuDKuP9bduMKlHr7ad/X/SJWi2tK7xZOAiftdsHp4XWFGb9Q3ZreuBdQHl+FIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\invic\\Desktop\\TaskTrackerPro3000-main\\TaskTrackerPro3000-main\\TaskTrackerPro3000.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\invic\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
